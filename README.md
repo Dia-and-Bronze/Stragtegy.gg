@@ -13,10 +13,10 @@
 ---
 
 ## 1. 팀 소개 및 역할
-- 이상현: BE, AI engineer
-- 유시현: FE engineer
-- 노태형: AI engineer
-- 유미리: FE engineer<br>
+- [이상현](https://github.com/DrMaemi): BE, AI engineer
+- [유시현](https://github.com/yoosh199): FE engineer
+- [노태형](https://github.com/dalchong2): AI engineer
+- [유미리](https://github.com/MiiiRiii): FE engineer<br>
 
 ## 2. 프로젝트 동기 및 소개
 ### 2-1. 동기
