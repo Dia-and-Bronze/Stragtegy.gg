@@ -24,7 +24,9 @@
 <div align="center">
   <figure>
       <img src="./source/[그림_1]_리그오브레전드의_인기_및_시장성.png" alt="그림1">
-      <figcation>[그림 1] 리그오브레전드의 인기 및 시장성</figcation>
+      <div align="center">
+        <figcation>[그림 1] 리그오브레전드의 인기 및 시장성</figcation>
+      </div>
   </figure>
 </div>
 <!-- ![그림 1](./source/[그림_1]_리그오브레전드의_인기_및_시장성.png) -->
