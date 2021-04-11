@@ -3,12 +3,18 @@
 </style> -->
 
 # 리그오브레전드 전적검색 및 AI 서비스 웹 플랫폼 - strategy.gg
-### 목차
-[1. 팀 소개 및 역할](##1.-팀-소개-및-역할)<br>
-[2. 프로젝트 동기 및 소개](##2.-프로젝트-동기-및-소개)<br>
-[&nbsp;&nbsp;&nbsp;&nbsp;2-1. 동기](###2-1.-동기)<br>
-[&nbsp;&nbsp;&nbsp;&nbsp;2-2. 소개](###2-2.-소개)<br>
-[3. 데이터 수집](##3.-데이터-수집)<br>
+## 시스템 구성
+[데이터 수집 및 가공](https://github.com/Dia-and-Bronze/strategy.gg-data)
+[ML / AI 모델 빌딩](https://github.com/Dia-and-Bronze/strategy.gg-model)
+[서버](https://github.com/Dia-and-Bronze/strategy.gg-server)
+[클라이언트](https://github.com/Dia-and-Bronze/Strategy.gg-version2)
+
+## 목차
+[1. 팀 소개 및 역할](#1.-팀-소개-및-역할)<br>
+[2. 프로젝트 동기 및 소개](#2.-프로젝트-동기-및-소개)<br>
+[&nbsp;&nbsp;&nbsp;&nbsp;2-1. 동기](#2-1.-동기)<br>
+[&nbsp;&nbsp;&nbsp;&nbsp;2-2. 소개](#2-2.-소개)<br>
+[3. 데이터 수집](#3.-데이터-수집)<br>
 
 ---
 
