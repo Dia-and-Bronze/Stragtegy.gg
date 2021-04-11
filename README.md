@@ -4,10 +4,10 @@
 
 # 리그오브레전드 전적검색 및 AI 서비스 웹 플랫폼 - strategy.gg
 ## 시스템 구성
-[데이터 수집 및 가공](https://github.com/Dia-and-Bronze/strategy.gg-data)<br>
-[ML / AI 모델 빌딩](https://github.com/Dia-and-Bronze/strategy.gg-model)<br>
-[서버](https://github.com/Dia-and-Bronze/strategy.gg-server)<br>
-[클라이언트](https://github.com/Dia-and-Bronze/Strategy.gg-version2)
+- [데이터 수집 및 가공](https://github.com/Dia-and-Bronze/strategy.gg-data)<br>
+- [ML / AI 모델 빌딩](https://github.com/Dia-and-Bronze/strategy.gg-model)<br>
+- [서버](https://github.com/Dia-and-Bronze/strategy.gg-server)<br>
+- [클라이언트](https://github.com/Dia-and-Bronze/Strategy.gg-version2)
 
 ## 목차
 [1. 팀 소개 및 역할](#1-팀-소개-및-역할)<br>
