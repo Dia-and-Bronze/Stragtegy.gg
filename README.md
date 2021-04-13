@@ -3,7 +3,7 @@
 </style> -->
 
 # 리그오브레전드 전적검색 및 AI 서비스 웹 플랫폼 - strategy.gg
-## 시스템 구성
+## 시스템 구성(github repo link)
 - [데이터 수집 및 가공](https://github.com/Dia-and-Bronze/strategy.gg-data)<br>
 - [ML / AI 모델 빌딩](https://github.com/Dia-and-Bronze/strategy.gg-model)<br>
 - [서버](https://github.com/Dia-and-Bronze/strategy.gg-server)<br>
